@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\nikita gusev\desktop\fractal\fractal\source.cpp(42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Fractal.cpp
+  Generating Code...
+  LINK : C:\Users\Nikita Gusev\Desktop\Fractal\Debug\Fractal.exe not found or not built by the last incremental link; performing full link
+  Fractal.vcxproj -> C:\Users\Nikita Gusev\Desktop\Fractal\Debug\Fractal.exe
+  Fractal.vcxproj -> C:\Users\Nikita Gusev\Desktop\Fractal\Debug\Fractal.pdb (Partial PDB)
